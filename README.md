@@ -1,7 +1,7 @@
 # machine-learning-nim-game
 Machine learning algorithm allowing a computer to teach itself the winning strategy for the simple strategy game of Nim and defeat any human opponent.
 
-Note: I did not pre-program the computer with the winning strategy. In fact, until this program was finished, I didn't even know the winning strategy myself. Rather, I programmed the computer to play thousands of games against itself, each time giving each move a score based on how effective that move is until the computer taught itself the winning strategy.
+Note: I did not pre-program the computer with the winning strategy. In fact, until this program was finished, I didn't even know the winning strategy myself. Rather, I programmed the computer to play thousands of games against itself, each time giving every move a score based on how effective that move was until the computer taught itself the winning strategy.
 
 # Rules of Nim
 Nim is a simple mathematical strategy game.
