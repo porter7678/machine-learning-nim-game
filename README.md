@@ -10,7 +10,7 @@ In this variant, there are three piles of stones consisting of 7, 5, and 3 stone
 
 Each player takes a turn removing as many stones as they desire from exactly one of the piles.
 
-For example, I could choose to take 4 stones from pile 2 leaving a game board of {7, 1, 3}
+For example, I could choose to take 4 stones from pile 2, leaving a game board of {7, 1, 3}
 
 Players cannot remove a stone from an empty pile.
 
